@@ -1,0 +1,2 @@
+# SmartDermato-CNN-AI
+ 
